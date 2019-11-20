@@ -1,6 +1,7 @@
 package io.zipcoder.currencyconverterapplication.currencies;
 
 public interface CurrencyTestInterface {
+
     void testAustralianConversion();
 
     void testCanadianDollarConversion();
